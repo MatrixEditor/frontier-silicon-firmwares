@@ -3,7 +3,7 @@
 This repository is an updated version of [frontier-silicon-firmwares](https://github.com/cweiske/frontier-silicon-firmwares) by cweiske and stores at least 35 more binaries.
 
 * Blog post: https://cweiske.de/tagebuch/frontier-firmware-dl.htm
-* Firmware Analysis: https://github.com/MatrixEditor/frontier-smart-api/blob/main/docs/firmware-2.0.md
+* Firmware Analysis: https://matrixeditor.github.io/fsapi-tools/firmware-structure.html
 * Known radios: see [this](KNOWN-RADIOS.md) file
 
 ## Repository Structure
