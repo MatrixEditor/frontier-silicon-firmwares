@@ -1,6 +1,6 @@
 # Frontier Smart Firmware Binaries
 
-This repository is an updated version of [frontier-silicon-firmwares](https://github.com/cweiske/frontier-silicon-firmwares) by cweiske and stores at least 35 more binaries. 
+This repository is an updated version of [frontier-silicon-firmwares](https://github.com/cweiske/frontier-silicon-firmwares) by cweiske and stores at least 35 more binaries.
 
 * Blog post: https://cweiske.de/tagebuch/frontier-firmware-dl.htm
 * Firmware Analysis: https://github.com/MatrixEditor/frontier-smart-api/blob/main/docs/firmware-2.0.md
@@ -60,4 +60,4 @@ URL="https://nuv-isu-cdn.azureedge.net/srupdates/srupdates/$CUSTOMISATION/$FILE_
 
 ## Updates
 
-Known firmware versions are listed in ``known-versions.txt``. To search for updates or download them, you can use the `fsapi` module presented in the [frontier-smart-api](https://github.com/MatrixEditor/frontier-smart-api) repository
+Known firmware versions are listed in ``known-versions.txt``. To search for updates or download them, you can use the `fsapi` module presented in the [fsapi-tools](https://github.com/MatrixEditor/fsapi-tools) repository
